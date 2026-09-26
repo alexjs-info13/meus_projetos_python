@@ -8,7 +8,7 @@ Repositório dedicado aos meus estudos, práticas e projetos desenvolvidos em Py
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| **[Jogo da Velha](Jogo_da_velha.ipynb)** | Implementação clássica do Jogo da Velha em ambiente interativo. | Python, Google Colab[cite: 2] |
+| **[Jogo da Velha](jogo_da_velha.ipynb)** | Implementação clássica do Jogo da Velha em ambiente interativo. | Python, Google Colab[cite: 2] |
 
 ---
 
